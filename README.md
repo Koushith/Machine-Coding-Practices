@@ -1,3 +1,3 @@
 # Machine-Coding-Practices
 
-- Day 1 - Basic Search Filter
+- 01 - Basic Search Filter - Easy - warmup
