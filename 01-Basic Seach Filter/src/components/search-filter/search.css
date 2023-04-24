@@ -1,0 +1,38 @@
+h1 {
+  font-size: 18px;
+  margin-bottom: 12px;
+}
+
+input {
+  height: 40px;
+  width: 350px;
+  font-size: 18px;
+}
+
+.search-container {
+  position: relative;
+}
+
+/* .suggesstions {
+  background-color: aqua;
+  position: absolute;
+  width: 100%;
+} */
+
+.suggestions-hidden {
+  display: none;
+}
+
+.filter-results {
+  margin-top: 20px !important;
+  /* background-color: aqua; */
+}
+
+li {
+  list-style: none;
+  font-size: 18px;
+}
+
+.no-users {
+  font-size: 18px;
+}
