@@ -22,13 +22,9 @@ inside function we are setting selected state variable with index
 
 and- styling- if clicked index === selected index ? "" : ""
 
-```
-
-```
-
 ### Todo -
 
-[] proper styking
-[] autoincrement based on timing passed
+[ ] proper styking
+[ ] autoincrement based on timing passed
 
 - revisit later. good for today
