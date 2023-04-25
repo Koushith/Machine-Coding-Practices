@@ -1,8 +1,10 @@
 # 02 - image caresol
 
+- ignore the typos - will fix later
+
 ### Image -caresol
 
-- it solid have leaft, right buttoms to click
+- it should have leaft, right buttoms to click
 - option to config timer to change automatically.
 - show the ... with active
 
