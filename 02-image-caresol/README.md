@@ -30,3 +30,5 @@ and- styling- if clicked index === selected index ? "" : ""
 
 [] proper styking
 [] autoincrement based on timing passed
+
+- revisit later. good for today
