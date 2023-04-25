@@ -24,7 +24,7 @@ and- styling- if clicked index === selected index ? "" : ""
 
 ### Todo -
 
-[ ] proper styking
-[ ] autoincrement based on timing passed
+- [ ] proper styling.
+- [ ] autoincrement based on timing passed.
 
 - revisit later. good for today
